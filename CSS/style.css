@@ -1,0 +1,77 @@
+/* Style sheet created by: Pius Amihere, 18/06/2022 */
+
+
+
+/*Style provides the background color for the entire page*/
+body{
+       	background-color: #FFFF99
+}
+
+#container{
+			width: 80%;
+			margin-left: auto;
+			margin-right: auto;		
+}
+
+header{
+		margin-top: 10px;
+		margin-bottom: 20px;
+		background-color: #F6F6F6;
+		border-radius: 10px;
+		box-shadow: 12px 12px 12px #004A9B;
+		text-align: center;
+}
+
+nav{
+		font-family:Georgia, "Times New Roman", serif;
+		font-size: 125%;	
+		font-weight: bold;
+		text-align: center;
+		padding: 15px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		border-radius: 20px;
+		border-bottom: 5px solid #FFFFFF;
+		border-top: 5px solid #FFFFFF; 
+		
+
+}
+
+main{
+		display: block;
+		font-family: Verdana, Arial, sans-serif;
+		font-size: 100%;
+		margin-top: 30px;
+		margin-bottom: 30px;
+		padding: 20px;
+		border-radius: 10px;
+		background-color:  #F6F6F6;
+		box-shadow: 12px 12px 12px #004A9B;
+		
+
+}
+
+footer{
+		font-size: 70%;
+		text-align: center;
+		margin-top: 30px;
+
+}
+
+.equip{
+		
+		float: left;
+		padding-right: 20px;
+}
+ul{
+		margin-bottom: 50px;
+		list-style-position: under;
+}
+
+dt{
+		font-weight: bold;
+}
+
+dd{
+		padding-bottom: 20px;
+}
